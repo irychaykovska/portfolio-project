@@ -155,9 +155,6 @@ footer .social-links a:hover {
     font-size: 26px;
   }
 
-  .btn {
-    font-size: 18px;
-  }
   .hero {
     padding: 80px 20px;
   }
@@ -168,9 +165,5 @@ footer .social-links a:hover {
   .project-description {
     padding: 0;
     text-align: center;
-  }
-  footer .contact-box {
-    background-color: var(--secondary-color);
-    padding: 30px;
   }
 }
